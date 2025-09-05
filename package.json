@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
     "homepage": "https://chiragpatil98.github.io/Energy_Requirement/",
+    "homepage": "https://chiragpatil98.github.io",
   "dependencies": {
     "@react-google-maps/api": "^2.19.3",
     "@reduxjs/toolkit": "^2.2.1",
